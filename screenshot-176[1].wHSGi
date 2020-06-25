@@ -412,7 +412,7 @@ html:not(.phone) .pop-box-menu a:hover, .pop-box-menu a.focus,
 	<li class=" current"><a id="tab-about-link" data-tab="tab-about" href="">About</a></li>
 <li class=" "><a id="tab-codes-link" data-tab="tab-codes" href="">Embed codes</a></li>
 </ul>        <div class="header-content-right">
-            <div class="number-figures float-left">6 <span>views</span></div>
+            <div class="number-figures float-left">7 <span>views</span></div>
             <div class="number-figures float-left"><span class="icon icon-heart4"></span> <b data-text="likes-count">0</b></div>        </div>
     </div>
 
@@ -424,7 +424,7 @@ html:not(.phone) .pop-box-menu a:hover, .pop-box-menu a.focus,
                 <div class="panel-description default-margin-bottom">
                     <p class="description-text margin-bottom-5" data-text="image-description"></p>
                     <p class="description-meta margin-bottom-5">
-                        Uploaded <span title="2020-06-25 17:32:55">15 minutes ago</span>                    </p>
+                        Uploaded <span title="2020-06-25 17:32:55">47 minutes ago</span>                    </p>
                                     </div>
 
                                     <div class="phone-show phablet-show hidden panel-share-networks margin-bottom-30">
@@ -1083,7 +1083,7 @@ html:not(.phone) .pop-box-menu a:hover, .pop-box-menu a.focus,
 		PF.obj.config.json_api = "https://imgcdn.dev/json";
 				PF.obj.config.listing.items_per_page = "24";
 		PF.obj.config.listing.device_to_columns = {"phone":"1","phablet":"3","tablet":"4","laptop":"5","desktop":"6","largescreen":"6"};
-		PF.obj.config.auth_token = "d7fe029b587c6425bf74dcb3199dbe39eca2daca";
+		PF.obj.config.auth_token = "84018f473e95bbb116cb7b0ac87fb23287d61f17";
 
 		PF.obj.l10n = [];
 
